@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.maindiv{
+    background-color: #34495e;
+    padding: 50px 0;
+ 
+}
+.maindiv ul{
+    text-align: center;
+    list-style: none;
+}
+.maindiv li{
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #e67e22;
+    margin: 0 5px;
+    position: relative;
+
+}
+.maindiv li a{
+    text-decoration: none;
+    color: #34495e;
+}
+.maindiv li span{
+    position: absolute;
+    width: 5px;
+    height: 23px;
+    background-color: white;
+    display: inline-block;
+    top: 100%;
+    left: 50%;
+}
+p{
+    position: absolute;
+    color: #e67e22;
+    top: 164%;
+    left: 46%;
+    font-size: 26px;
+}
+.fast{
+    background-color: rgb(160, 108, 160);
+    padding: 40px;
+    margin: 0;
+    position: relative;
+    height: 208px;
+   text-align: center;
+
+}
+.coto{
+    position: absolute;
+    background-color: #34495e;
+    border-radius: 50%;
+    border: 3px solid #e67e22;
+    border-style:dotted;
+    height: 70px;
+    width: 70px;
+    top: 20%;
+    left: 40%;
+}
+.moto{
+    position: absolute;
+    background-color: #34495e;
+    border-radius: 50%;
+    border: 3px solid #e67e22;
+    border-style:dotted;
+    height: 70px;
+    width: 70px;
+    top: 40%;
+    left: 30%;
+}
+.avi{
+    position: absolute;
+    background-color: #34495e;
+    border-radius: 50%;
+    border: 3px solid #e67e22;
+    height: 90px;
+    width: 90px;
+    top: 40%;
+    left:50%;
+}
+.one{
+    position: absolute;
+    background-color: #34495e;
+    border-radius: 50%;
+    border: 3px solid #e67e22;
+    border-style:dotted;
+    height: 70px;
+    width: 70px;
+    top: 25%;
+    left: 60%;
+}
+.two{
+    position: absolute;
+    background-color: #34495e;
+    border-radius: 50%;
+    border: 3px solid #e67e22;
+    border-style:dotted;
+    height: 70px;
+    width: 70px;
+    top: 50%;
+ left: 70%;
+}
+footer{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-color: #34495e;
+}
